@@ -1,0 +1,31 @@
+FUTURE PLANS
+
+* We wanted to link backend with frontend but face some issues which we were not able to solve in reamining time
+
+* we wanted to use Good qualtiy camera which has higher resolution but we can't afford it
+
+* We wanted to store data in database which we were not able to do it in reamining time
+
+* WE want to host our backend part on AWS but not we did not had the knowldge of AWS
+
+
+
+
+CONTRIBUTION OF EACH MEMBER
+
+
+
+
+Anveshkumar Pandey (backend developer) : He applied the concept of opencv so tha we can recognize object from the frame and store it in labeled form 
+
+Aayush Deshmukh (backend developer) : He was the one who managed the data storage in our project and used it to the fullest to get the desired output
+
+Nitish Rana (Front-end developer): He was responsible for making the website using Django
+
+Krishna tripathi (Front-end developer): He was responsible for  supporting Nitish with the knowledge of HTML and CSS
+
+Balark Singhal (Presenter): He was responsible for presentation of our ideas to the judges in such way that everyone in room will understand it easily . He also supported us by making documents that were important so that users can understand it
+    
+
+
+ 

@@ -1,0 +1,17 @@
+Object Seeker
+We often put our mobile phones, pens, ties, etc here and there and later on we forget the place where we left them. This system will take input from the user and start scanning the place in which user want to search the desirable object.
+Programming Language used 
+Python 
+Libraries used
+OpenCV
+Frameworks used
+Django 
+Bootstrap(CSS framework for user interface)
+Working of project
+Firstly the data is being get recorded in real time by the help of camera and our project is taking frames one by one . After this our system is taking data from its surroundings and then it is giving the input to the site.
+
+
+One dialogue box will appear in which user will input the name of the object which he/she wants to search. Now we will find the object by the help of our recorded data.
+When this all process get done site will generate an output and user can find it’s desired object.
+Our model is trained in such a way by which our system can find out where was the targeted object previously placed and what are the objects currently present in those places. Our system will scan the whole room and locate the desired object which user wants to find.
+
